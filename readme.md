@@ -4,7 +4,7 @@ The code in `uvi_server.ino` will send UVA/UVB/UVI measurements to a network ser
 
 ## Requirements
 
-You'll need the following hardware to make this work:
+You'll need the following to make this work:
 
 * An Arduino board such as the ESP8266 12-E NodeMCU Kit (one I used)
 * Gravity VEML6075 UV Sensor Module
